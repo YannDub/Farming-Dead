@@ -1,0 +1,36 @@
+{
+  "formatVersion": 1,
+  "grid": {
+    "width": 32,
+    "height": 32
+  },
+  "tileProperties": {
+    "11_5": {
+      "collision": "true"
+    },
+    "5_3": {
+      "collision": "true"
+    },
+    "5_4": {
+      "collision": "true"
+    },
+    "5_5": {
+      "collision": "true"
+    },
+    "6_5": {
+      "collision": "true"
+    },
+    "7_5": {
+      "collision": "true"
+    },
+    "7_4": {
+      "collision": "true"
+    },
+    "7_3": {
+      "collision": "true"
+    },
+    "6_3": {
+      "collision": "true"
+    }
+  }
+}

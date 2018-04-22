@@ -1,0 +1,135 @@
+{
+  "behaviors": {
+    "PlayerBehavior": {
+      "scriptId": "7",
+      "line": 3,
+      "parentBehavior": null,
+      "properties": []
+    },
+    "VegetalBehavior": {
+      "scriptId": "23",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "name",
+          "type": "string"
+        },
+        {
+          "name": "timeToGrow",
+          "type": "number"
+        },
+        {
+          "name": "chanceToGrow",
+          "type": "number"
+        },
+        {
+          "name": "step",
+          "type": "number"
+        }
+      ]
+    },
+    "ZombieBehavior": {
+      "scriptId": "49",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "damage",
+          "type": "number"
+        },
+        {
+          "name": "distanceToView",
+          "type": "number"
+        },
+        {
+          "name": "moveSpeed",
+          "type": "number"
+        },
+        {
+          "name": "name",
+          "type": "string"
+        },
+        {
+          "name": "life",
+          "type": "number"
+        }
+      ]
+    },
+    "WavesBehavior": {
+      "scriptId": "58",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": []
+    },
+    "StartBehavior": {
+      "scriptId": "59",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": []
+    },
+    "BulletBehavior": {
+      "scriptId": "62",
+      "line": 12,
+      "parentBehavior": null,
+      "properties": [
+        {
+          "name": "vegetable",
+          "type": "string"
+        },
+        {
+          "name": "speed",
+          "type": "number"
+        }
+      ]
+    },
+    "ControlsSceneBehavior": {
+      "scriptId": "69",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": []
+    },
+    "LifebarBehavior": {
+      "scriptId": "72",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": []
+    },
+    "RestartBehavior": {
+      "scriptId": "79",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": []
+    },
+    "VoiceAleatBehavior": {
+      "scriptId": "99",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": []
+    },
+    "TitleMusicBehavior": {
+      "scriptId": "100",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": []
+    },
+    "GameOverScreenBehavior": {
+      "scriptId": "101",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": []
+    },
+    "LifebarPlayerBehavior": {
+      "scriptId": "103",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": []
+    },
+    "WinScreenBehavior": {
+      "scriptId": "104",
+      "line": 0,
+      "parentBehavior": null,
+      "properties": []
+    }
+  }
+}

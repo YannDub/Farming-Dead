@@ -1,0 +1,240 @@
+{
+  "formatVersion": 3,
+  "maps": [
+    "map"
+  ],
+  "filtering": "pixelated",
+  "wrapping": "clampToEdge",
+  "pixelsPerUnit": 100,
+  "framesPerSecond": 10,
+  "opacity": null,
+  "alphaTest": 0.1,
+  "frameOrder": "rows",
+  "grid": {
+    "width": 128,
+    "height": 128
+  },
+  "origin": {
+    "x": 0.5,
+    "y": 0.5
+  },
+  "animations": [
+    {
+      "id": "0",
+      "name": "Tomate1",
+      "startFrameIndex": 2,
+      "endFrameIndex": 2,
+      "speed": 1
+    },
+    {
+      "id": "1",
+      "name": "Tomate2",
+      "startFrameIndex": 1,
+      "endFrameIndex": 1,
+      "speed": 1
+    },
+    {
+      "id": "2",
+      "name": "Tomate3",
+      "startFrameIndex": 0,
+      "endFrameIndex": 0,
+      "speed": 1
+    },
+    {
+      "id": "3",
+      "name": "Carotte1",
+      "startFrameIndex": 5,
+      "endFrameIndex": 5,
+      "speed": 1
+    },
+    {
+      "id": "4",
+      "name": "Carotte2",
+      "startFrameIndex": 4,
+      "endFrameIndex": 4,
+      "speed": 1
+    },
+    {
+      "id": "5",
+      "name": "Carotte3",
+      "startFrameIndex": 3,
+      "endFrameIndex": 3,
+      "speed": 1
+    },
+    {
+      "id": "6",
+      "name": "Aubergine1",
+      "startFrameIndex": 8,
+      "endFrameIndex": 8,
+      "speed": 1
+    },
+    {
+      "id": "7",
+      "name": "Aubergine2",
+      "startFrameIndex": 7,
+      "endFrameIndex": 7,
+      "speed": 1
+    },
+    {
+      "id": "8",
+      "name": "Aubergine3",
+      "startFrameIndex": 6,
+      "endFrameIndex": 6,
+      "speed": 1
+    },
+    {
+      "id": "9",
+      "name": "Piment1",
+      "startFrameIndex": 11,
+      "endFrameIndex": 11,
+      "speed": 1
+    },
+    {
+      "id": "10",
+      "name": "Piment2",
+      "startFrameIndex": 10,
+      "endFrameIndex": 10,
+      "speed": 1
+    },
+    {
+      "id": "11",
+      "name": "Piment3",
+      "startFrameIndex": 9,
+      "endFrameIndex": 9,
+      "speed": 1
+    },
+    {
+      "id": "12",
+      "name": "Citrouille1",
+      "startFrameIndex": 14,
+      "endFrameIndex": 14,
+      "speed": 1
+    },
+    {
+      "id": "13",
+      "name": "Citrouille2",
+      "startFrameIndex": 13,
+      "endFrameIndex": 13,
+      "speed": 1
+    },
+    {
+      "id": "14",
+      "name": "Citrouille3",
+      "startFrameIndex": 12,
+      "endFrameIndex": 12,
+      "speed": 1
+    },
+    {
+      "id": "15",
+      "name": "Radis1",
+      "startFrameIndex": 17,
+      "endFrameIndex": 17,
+      "speed": 1
+    },
+    {
+      "id": "16",
+      "name": "Radis2",
+      "startFrameIndex": 16,
+      "endFrameIndex": 16,
+      "speed": 1
+    },
+    {
+      "id": "17",
+      "name": "Radis3",
+      "startFrameIndex": 15,
+      "endFrameIndex": 15,
+      "speed": 1
+    },
+    {
+      "id": "18",
+      "name": "Patate1",
+      "startFrameIndex": 20,
+      "endFrameIndex": 20,
+      "speed": 1
+    },
+    {
+      "id": "19",
+      "name": "Patate2",
+      "startFrameIndex": 19,
+      "endFrameIndex": 19,
+      "speed": 1
+    },
+    {
+      "id": "20",
+      "name": "Patate3",
+      "startFrameIndex": 18,
+      "endFrameIndex": 18,
+      "speed": 1
+    },
+    {
+      "id": "21",
+      "name": "Oignon1",
+      "startFrameIndex": 23,
+      "endFrameIndex": 23,
+      "speed": 1
+    },
+    {
+      "id": "22",
+      "name": "Oignon2",
+      "startFrameIndex": 22,
+      "endFrameIndex": 22,
+      "speed": 1
+    },
+    {
+      "id": "23",
+      "name": "Oignon3",
+      "startFrameIndex": 21,
+      "endFrameIndex": 21,
+      "speed": 1
+    },
+    {
+      "id": "24",
+      "name": "Champi1",
+      "startFrameIndex": 26,
+      "endFrameIndex": 26,
+      "speed": 1
+    },
+    {
+      "id": "25",
+      "name": "Champi2",
+      "startFrameIndex": 25,
+      "endFrameIndex": 25,
+      "speed": 1
+    },
+    {
+      "id": "26",
+      "name": "Champi3",
+      "startFrameIndex": 24,
+      "endFrameIndex": 24,
+      "speed": 1
+    },
+    {
+      "id": "27",
+      "name": "Fleur1",
+      "startFrameIndex": 27,
+      "endFrameIndex": 27,
+      "speed": 1
+    },
+    {
+      "id": "28",
+      "name": "Fleur2",
+      "startFrameIndex": 28,
+      "endFrameIndex": 28,
+      "speed": 1
+    },
+    {
+      "id": "29",
+      "name": "Arbre",
+      "startFrameIndex": 29,
+      "endFrameIndex": 29,
+      "speed": 1
+    }
+  ],
+  "mapSlots": {
+    "map": "map",
+    "light": null,
+    "specular": null,
+    "alpha": null,
+    "normal": null
+  }
+}
